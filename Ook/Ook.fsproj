@@ -6,7 +6,9 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Include="Program.fs" />
+    <Compile Include="Cli.fs" />
+    <Compile Include="Cipher.fs" />
+    <Compile Include="Ook.fs" />
   </ItemGroup>
 
 </Project>
