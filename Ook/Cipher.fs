@@ -33,6 +33,7 @@ let cipherMap = Collections.Map [
     ("y", "OoOO");
     ("z", "OOoo");
     (" ", "k ");
+    ("", "");
     ("0", "OOOOO");
     ("1", "oOOOO");
     ("2", "ooOOO");
